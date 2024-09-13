@@ -1,9 +1,6 @@
 h1{
     color:aliceblue
 }
-header{
-    background-color:blueviolet
-}
-footer{
+header,footer{
     background-color:blueviolet
 }
