@@ -11,3 +11,6 @@ header, footer{
 header a{
     color:aliceblue;
 }
+header a:hover{
+    text-decoration: underline;
+}
