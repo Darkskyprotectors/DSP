@@ -5,11 +5,16 @@
 h1{
     color:aliceblue;
 }
-header, footer{
+header{
     background-color:blueviolet;
+    height:80px;
+    width:100%;
 }
 header a{
     color:aliceblue;
+    position:absolute;
+    right:5vw;
+    line-height:80px;
 }
 header a:hover{
     text-decoration: underline;
